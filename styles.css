@@ -80,7 +80,7 @@ nav ul li a:hover {
 
 .btn-1 {
   margin-top: -10px; /* Dịch chuyển button xuống dưới */
-  margin-left: 400px; /* Dịch chuyển button sang phải */
+  margin-left: 50px; /* Dịch chuyển button sang phải */
 }
 
 .btn-1:disabled {
